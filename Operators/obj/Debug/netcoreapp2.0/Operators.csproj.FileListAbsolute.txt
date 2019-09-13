@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.deps.json
+C:\Users\opilane\Desktop\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.json
+C:\Users\opilane\Desktop\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.dll
+C:\Users\opilane\Desktop\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.pdb
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfo.cs
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.dll
+C:\Users\opilane\Desktop\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.pdb
